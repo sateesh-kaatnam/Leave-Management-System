@@ -1,4 +1,4 @@
-# Leave-Mangement-System
+# Leave-Mangement-System(PHP)
 
 1) It is basic leave management system for which an employee in college can aply for a leave and the higher authorities may approve or decline the employee request.
 

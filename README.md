@@ -6,7 +6,7 @@
 
 3) Employees can view their leave status
 
-4) This system consists of a chat-box for department vise and Global chat-box.
+4) This system consists of a Global chat-box of college.
 
 
 # Files will be uploaded soon.
